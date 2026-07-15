@@ -97,3 +97,4 @@ Domain-agnostic: Swap KB + CSV → same orchestrator runs for FinTech, HealthTec
 
 ---
 No hardcoded outputs · No mock learning · Real measurable delta
+
